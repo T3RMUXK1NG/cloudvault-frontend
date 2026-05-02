@@ -128,7 +128,7 @@ This frontend pairs with [CloudVault Backend](https://github.com/rajsaraswati-ja
 
 ## 👤 Author
 
-**Rajsaraswati Jatav (T3rmuxk1ng)**
+**RS JATAV | T3rmuxk1ng**
 
 - YouTube: [https://youtube.com/@T3rmuxk1ng](https://youtube.com/@T3rmuxk1ng)
 - GitHub: [rajsaraswati-jatavv](https://github.com/rajsaraswati-jatavv)
