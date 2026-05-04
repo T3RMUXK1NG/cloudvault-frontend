@@ -128,7 +128,7 @@ This frontend pairs with [CloudVault Backend](https://github.com/T3RMUXK1NG/clou
 
 ## 👤 Author
 
-**RS T3RMUXK1NG | T3rmuxk1ng**
+**T3RMUXK1NG | T3rmuxk1ng**
 
 - YouTube: [https://youtube.com/@T3rmuxk1ng](https://youtube.com/@T3rmuxk1ng)
 - GitHub: [T3RMUXK1NG](https://github.com/T3RMUXK1NG)
